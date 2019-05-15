@@ -7,7 +7,7 @@ require 'kafka/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ruby-kafka"
-  spec.version       = Kafka::VERSION
+  spec.version       = "0.7.8"
   spec.authors       = ["Daniel Schierbeck"]
   spec.email         = ["daniel.schierbeck@gmail.com"]
 
